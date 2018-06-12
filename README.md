@@ -1,6 +1,14 @@
 # JSONPlaceholder_App
 
-This is application written by using HTML,CSS,Vanilla Javascript and JQuery and it's purpose is to manipulate with JSONPlaceholder's objects (http://jsonplaceholder.typicode.com/)
+This is application purpose is to manipulate with JSONPlaceholder's objects (http://jsonplaceholder.typicode.com/)
+Techonologies used:
+
+HTML5
+CSS3
+JavaScript(VanillaJS,jQuery)
+Build tools (Webpack)
+Node
+npm
 ___________________________________________________________________________
 
 
