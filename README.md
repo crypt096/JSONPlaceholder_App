@@ -27,7 +27,7 @@ As you type, you get filtered answers as possible wanted posts.
 
 -> Fourth task was to implement the way to remove any post anytime, and it's also been made. When you search your post or just listing all the posts there is a button that delete post for you, and list is updating accordingly.
 
--> Fifth task was to implement loading spinner which is indicator if something is loading or for any service call. That is also implemented, fixing your screen and showing you that something is happening at the moment "under the hood".
+-> Fifth task was to implement loading spinner which is indicator if something is loading or for any service call. That is also implemented, showing you that something is happening at the moment "under the hood".
 
 --> Also, as additional feature I had to implement infinite scroll, which is made by listing last 20 posts and after them you will see the "magic" happens.
 
