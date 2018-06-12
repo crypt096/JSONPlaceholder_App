@@ -42,7 +42,7 @@ I am also aware that this can be done in a much easier way using some of JS fram
 ___________________________________________________________________________
 
 
-Possible updates
+<h2>Possible updates<h2>
 
 -> index.js can be modularized (to split the logic between DOM maniuplation,RenderList,Toggle,etc...)
 
