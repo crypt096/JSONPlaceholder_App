@@ -17,19 +17,19 @@ ___________________________________________________________________________
 <h2>Tasks (problems & solutions)</h2>
 
 
--> First task was to list all elements from Api, and it's made by fetching all data from <a href="http://jsonplaceholder.typicode.com/">JSONPlaceholder</a>
+-> Listing all elements from Api is made by fetching all data from <a href="http://jsonplaceholder.typicode.com/">JSONPlaceholder</a>
 Also the expanadble field for body's content has been made.
 
--> Second task here is the keyword search that is also implemented (using fuzzy search algorythm) so you can find your added post or any post in JSONPlaceholder's database.
+-> Keyword search made bu (using fuzzy search algorythm) so you can find your added post or any post in JSONPlaceholder's database.
 As you type, you get filtered answers as possible wanted posts.
 
--> Third task was to crate form which is used to create a new post and it is made with validation, what means that you can't leave the fields empty, you'll get an error.
+-> There is a form which is used to create a new post and it is made with validation, what means that you can't leave the fields empty, you'll get an error.
 
--> Fourth task was to implement the way to remove any post anytime, and it's also been made. When you search your post or just listing all the posts there is a button that delete post for you, and list is updating accordingly.
+-> Remove any post anytime. When you search your post or just listing all the posts there is a button that delete post for you, and list is updating accordingly.
 
--> Fifth task was to implement loading spinner which is indicator if something is loading or for any service call. That is also implemented, showing you that something is happening at the moment "under the hood".
+-> You can show loading spinner which is indicator if something is loading or any service call is happening.
 
---> Also, as additional feature I had to implement infinite scroll, which is made by listing last 20 posts and after them you will see the "magic" happens.
+--> Infinite scroll, which is made by listing last 20 posts and after them you will see the "magic" happens.
 
 ___________________________________________________________________________
 
