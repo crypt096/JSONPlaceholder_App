@@ -16,7 +16,7 @@ ___________________________________________________________________________
 <h2>Tasks (problems & solutions)</h2>
 
 
-->First task was to list all elements from Api,and it's fixed by fetching all data from http://jsonplaceholder.typicode.com/
+->First task was to list all elements from Api,and it's fixed by fetching all data from <a href="http://jsonplaceholder.typicode.com/">JSONPlaceholder</a>
 Also the expanadble field for body's content has been made.
 
 ->Second task here is the keyword search that is also implemented so you can find your added post or any post in JSONPlaceholder's database.
