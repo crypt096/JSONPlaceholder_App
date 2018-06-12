@@ -59,7 +59,9 @@ ___________________________________________________________________________
 ___________________________________________________________________________
 
 
+<b>All of my projects can be found here on my GitHub profile</b>
 
+<a href="https://www.linkedin.com/in/acvjetan/">LinkedIn</a>
 
 
 
