@@ -34,11 +34,11 @@ ___________________________________________________________________________
 
 <h2>Technical and architectural choices</h2>
 
-->In my application I was using VanillaJS and JQuery. I think that is most important thing for everybody to know the basic things so I've chosen this way to made app.
+-> In my application I was using VanillaJS and JQuery. I think that is most important thing for everybody to know the basic things so I've chosen this way to made app.
 
-I also wanted to show how VanillaJS works and how JQuery works.
+-> I also wanted to show how VanillaJS works and how JQuery works.
 
-I am also aware that this can be done in a much easier way using some of JS frameworks (Angular for example).
+-> I am also aware that this can be done in a much easier way using some of JS frameworks (Angular for example).
 
 ___________________________________________________________________________
 
