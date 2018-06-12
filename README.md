@@ -1,7 +1,8 @@
 # JSONPlaceholder_App
 
-This application purpose is to manipulate with JSONPlaceholder's objects (http://jsonplaceholder.typicode.com/)
-Techonologies used:
+This is example of application that has visualisation, deleteing and adding of content using Fake mock services (JSONPlaceholder) as backend.
+
+<h2>Techonologies used:</h2>
 
 <b><ul>
 <li>HTML5</li>
