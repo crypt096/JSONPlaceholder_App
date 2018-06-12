@@ -59,7 +59,7 @@ ___________________________________________________________________________
 ___________________________________________________________________________
 
 
-<b>All of my projects can be found here on my GitHub profile</b>
+<b>All of my projects can be found here on my <a href="https://github.com/crypt096?tab=repositories">GitHub profile</a></b>
 
 <a href="https://www.linkedin.com/in/acvjetan/">LinkedIn</a>
 
