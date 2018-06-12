@@ -4,8 +4,9 @@ This is application written by using HTML,CSS,Vanilla Javascript and JQuery and 
 ___________________________________________________________________________
 
 
-Tasks
-_____
+Tasks (problems & solutions)
+
+
 ->First task was to list all elements from Api,and it's fixed by fetching all data from http://jsonplaceholder.typicode.com/
 Also the expanadble field for body's content has been made.
 
@@ -19,6 +20,31 @@ As you type,you get filtered answers as possible wanted posts.
 ->Fifth task was to implement loading spinner which is indicator if something is loading or for any service call. That is also implemented,fixing your screen and showing you that something is happening at the moment "under the hood".
 
 -->Also,as additional feature I had to implement infinite scroll,which is made by listing last 20 posts and after them you will see the "magic" happens.
+
+___________________________________________________________________________
+
+Technical and architectural choices
+
+->In my application I was using VanillaJS and JQuery. I think that is most important thing for everybody to know the basic things so I've chosen this way to made app.
+I also wanted to show how VanillaJS works and how JQuery works.
+
+I am also aware that this can be done in a much easier way using some of JS frameworks (Angular for example).
+
+___________________________________________________________________________
+
+
+Possible updates
+
+-> index.js can be modularized (to split the logic between DOM maniuplation,RenderList,Toggle,etc...)
+-> Error handling can be also made (modals and inline-text,also if fetch isn't working,it would be nice to have some warning message,etc..)
+-> Style can be also upgraded with Sass or LESS
+-> Also manual or automatic tests can be made on this(Unit or Browser tests)
+
+
+___________________________________________________________________________
+
+
+
 
 
 
