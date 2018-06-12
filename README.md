@@ -1,6 +1,6 @@
 # JSONPlaceholder_App
 
-This is example of application that has visualisation, deleteing and adding of content using Fake mock services (JSONPlaceholder) as backend.
+This is an example of application that can list, delete and add data simple data using fake REST services (http://jsonplaceholder.typicode.com/) as a backend.
 
 <h2>Techonologies used:</h2>
 
