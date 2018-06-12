@@ -1,0 +1,20 @@
+{
+  "name": "Application",
+  "version": "1.0.0",
+  "author": "Aleksandar Cvjet",
+  "scripts": {
+    "build": "rimraf dist && node ./node_modules/webpack/bin/webpack.js"
+  },
+  "dependencies": {
+    "fuzzysearch": "^1.0.3",
+    "jquery": "^3.3.1"
+  },
+  "devDependencies": {
+    "bootstrap-css": "^4.0.0-alpha.5",
+    "css-loader": "^0.28.11",
+    "file-loader": "^1.1.11",
+    "style-loader": "^0.21.0",
+    "webpack": "^4.12.0",
+    "webpack-cli": "^3.0.3"
+  }
+}
