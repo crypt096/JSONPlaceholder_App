@@ -12,7 +12,7 @@ npm
 ___________________________________________________________________________
 
 
-<h1>Tasks (problems & solutions)</h1>
+<h2>Tasks (problems & solutions)</h2>
 
 
 ->First task was to list all elements from Api,and it's fixed by fetching all data from http://jsonplaceholder.typicode.com/
@@ -31,7 +31,7 @@ As you type,you get filtered answers as possible wanted posts.
 
 ___________________________________________________________________________
 
-Technical and architectural choices
+<h2>Technical and architectural choices</h2>
 
 ->In my application I was using VanillaJS and JQuery. I think that is most important thing for everybody to know the basic things so I've chosen this way to made app.
 
@@ -42,7 +42,7 @@ I am also aware that this can be done in a much easier way using some of JS fram
 ___________________________________________________________________________
 
 
-<h2>Possible updates<h2>
+<h2>Possible updates</h2>
 
 -> index.js can be modularized (to split the logic between DOM maniuplation,RenderList,Toggle,etc...)
 
