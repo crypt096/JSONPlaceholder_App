@@ -3,12 +3,12 @@
 This is application purpose is to manipulate with JSONPlaceholder's objects (http://jsonplaceholder.typicode.com/)
 Techonologies used:
 
-<b>HTML5
-CSS3
-JavaScript(VanillaJS,jQuery)
-Build tools (Webpack)
-Node
-npm</b>
+<b><ul><li>HTML5</li>
+<li>CSS3</li>
+<li>JavaScript(VanillaJS,jQuery)</li>
+<li>Build tools (Webpack)</li>
+<li>Node</li>
+<li>npm</li></ul></b>
 ___________________________________________________________________________
 
 
