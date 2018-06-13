@@ -43,7 +43,7 @@ ___________________________________________________________________________
 
 <li>You can show loading spinner which is indicator if something is loading or any service call is happening.</li>
 
-<li>Infinite scroll, which is made by listing last 20 posts and after them you will see the "magic" happens. </li></ul>
+<li>Infinite scroll that adds content partially (once you scroll to the bottom of the list new content will be added), saving users from a full page load. </li></ul>
 
 ___________________________________________________________________________
 
