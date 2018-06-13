@@ -13,16 +13,29 @@ This is an example of application that can list, delete and add simple data usin
 <li>npm</li></ul></b>
 ___________________________________________________________________________
 
+<h2>Installation guide:</h2>
+
+<p>In order to use the library and/or samples you must first download and install <a href="https://nodejs.org/en/">NodeJS</a>.</p>
+
+<p>To install dependencies via npm, from the root level of the library directory type:</p>
+
+<pre><code>npm install</code></pre>
+
+
+<p>In order to run application type:</p>
+
+<pre><code>npm run build</code></pre>
+
+___________________________________________________________________________
+
 
 <h2>Problems & solutions</h2>
 
 
 <ul>
-<li>Listing all elements from Api is made by fetching all data from <a href="http://jsonplaceholder.typicode.com/">JSONPlaceholder</a>
-Also the expanadble field for body's content has been made.</li>
+<li>Listing all elements from Api is made by fetching all data from <a href="http://jsonplaceholder.typicode.com/">JSONPlaceholder</a></li>
 
-<li>Keyword search made bu (using fuzzy search algorythm) so you can find your added post or any post in JSONPlaceholder's database.
-As you type, you get filtered answers as possible wanted posts.</li>
+<li>Keyword search made by (using fuzzy search algorythm). As soon you start to type in the input box you will have filtered results that match searching criteria. </li>
 
 <li>There is a form which is used to create a new post and it is made with validation, what means that you can't leave the fields empty, you'll get an error.</li>
 
@@ -36,12 +49,9 @@ ___________________________________________________________________________
 
 <h2>Technical and architectural choices</h2>
 
--> In my application I was using VanillaJS and JQuery. I think that is most important thing for everybody to know the basic 
-   things so I've chosen this way to made app.
+-> In my application I was using basic Front-End web technologies.
 
--> I also wanted to show how VanillaJS works and how JQuery works.
-
--> I am also aware that this can be done in a much easier way using some of JS frameworks (Angular for example).
+-> I am also aware that this can be done in much easier way using some of JS frameworks (Angular for example).
 
 ___________________________________________________________________________
 
@@ -56,9 +66,7 @@ ___________________________________________________________________________
 
 <li>Also manual or automatic tests can be made on this(Unit or Browser tests)</li>
 
-<li>Method documentation can be better</li>
-
-<li>Comments also could be clearer</li>
+<li>Code/comments documentation</li>
 </ul>
 ___________________________________________________________________________
 
