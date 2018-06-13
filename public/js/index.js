@@ -118,6 +118,20 @@ import "../assets/style.css";
         });
 
     };
+    
+    
+    // Infinite scroll (lazy loading)
+    postListElement.scroll(() => {
+        if (currentlyLoadedPart !== -1 && postListElement.scrollTop() + postListElement.height() >= postListElement.prop('scrollHeight')) {
+            ++currentlyLoadedPart;
+            const newChunk = Posts.getPosts(searchBoxElement.val(), currentlyLoadedPart);
+            if (newChunk.length) {
+                renderList(newChunk);
+            } else {
+                currentlyLoadedPart = -1;
+            }
+        }
+    });
 
     // Initial rendering
     renderList(Posts.getPosts("a", currentlyLoadedPart));
