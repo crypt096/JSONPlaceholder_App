@@ -1,7 +1,7 @@
 {
   "name": "Application",
   "version": "1.0.0",
-  "author": "Aleksandar Cvjet",
+  "author": "Aleksandar Cvjetan",
   "scripts": {
     "build": "rimraf dist && node ./node_modules/webpack/bin/webpack.js"
   },
